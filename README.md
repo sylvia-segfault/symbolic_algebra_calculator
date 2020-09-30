@@ -1,2 +1,2 @@
 # symbolic_algebra_calculator
-A symbolic algebra calculator is a kind of calculator that does not immediately evaluate the expressions you type in but instead lets you manipulate them symbolically.
+The user can interactively enter commands in the bottom pane. These commands can do different things, ranging from just evaluating expressions to graphing actual output. The lines that start with>>> are lines where the user typed in input; the following lines are the output of that operation.
